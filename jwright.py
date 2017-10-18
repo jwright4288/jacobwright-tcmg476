@@ -21,7 +21,7 @@ def main () :
 			str_date = line.split()[3][1:].split(':')[0]
 		except:
 			pass
-		date = datetime.strptime( str_date, "%D/%b/%Y" )
+		date = datetime.strptime( str_date, "%d/%b/%Y" )
 		by_weekday[date.weekday()] += 1
 
 		
