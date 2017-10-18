@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Author: Jacob Wright
 # Course: TCMG 476
 # Date: 10/12/2017
@@ -10,7 +12,7 @@ def main () :
 	count = 0
 	allLine = []
 	by_weekday = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0}
-	by_month = {}
+	by_month = {0:0, 1:0, 2:0}
 
 	for line in f:
 		count += 1
