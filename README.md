@@ -1,4 +1,4 @@
-# jacobwright-tcmg476
+# Jacob Wright's project #3
 
 Clone this directory https://github.com/jwright4288/jacobwright-tcmg476
 
