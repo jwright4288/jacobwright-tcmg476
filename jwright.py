@@ -33,7 +33,6 @@ def main () :
 			print count
 			return 0
 
-	print ("1. How many total requests were made in the time period represented in the log?")
 	print len(allLine)
 
 
